@@ -1,0 +1,20 @@
+Map-> HashMap, LinkedHashMap
+ SortedMap-> TreeMap.
+ 
+ (key,value)
+ key will be unique
+ value will be duplicate
+ (101,"rajesh");
+ (102,"rajesh");
+ -----------
+ (102,"konda");
+  (102,"nagesh");
+  (102,"nagesh");
+ 
+ =---------------
+ hashmap how it works : it works on hashing algorithm
+ map.put(232,"india"); hexadimcal foramt @hadfsdoxucsdf123
+ map.get(102); @hadfsdoxucsdf123
+ 
+ 
+ nagesh.
